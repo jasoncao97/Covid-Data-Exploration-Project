@@ -1,1 +1,1 @@
-# Covid-Data-Exploration-Project
+# Covid Data Exploration Project
